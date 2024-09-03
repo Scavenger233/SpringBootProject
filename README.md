@@ -18,5 +18,14 @@ https://app.amigoscode.com/courses/enrolled/515567
 ### Set PostgreSQL
 https://app.amigoscode.com/courses/515567/lectures/9607542
 
+<img width="570" alt="image" src="https://github.com/user-attachments/assets/bf12eb4e-90d9-4858-8e1c-8ea76dabec14">
+
+<img width="996" alt="image" src="https://github.com/user-attachments/assets/8e54a2bc-bd14-44d5-9a62-ac889ed57da7">
+
+- to create a database named student
+  <img width="906" alt="image" src="https://github.com/user-attachments/assets/30c0d7fa-0c3c-48dd-a03f-e8ac73fc4480">
+
+
+
 
 
