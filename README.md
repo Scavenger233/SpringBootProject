@@ -10,6 +10,9 @@ A taste of Spring boot project. To understand the concept of IOC.
 
 <img width="409" alt="image" src="https://github.com/user-attachments/assets/1f228be7-876b-4f59-8bd5-e95a1cc6d7d7">
 
+<img width="361" alt="image" src="https://github.com/user-attachments/assets/192ee849-cf7f-4854-85a8-d58e8bc5dd2b">
+
+
 ## Database
 
 ### Link for PostgreSQL tutorial
