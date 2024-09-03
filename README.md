@@ -5,3 +5,6 @@ A taste of Spring boot project. To understand the concept of IOC.
 
 ### To update the pom file
 - right click pom.cml -> maven -> reload project
+
+<img width="551" alt="image" src="https://github.com/user-attachments/assets/c8c18bbf-d6f2-4ea1-a34d-567c97af83ec">
+
