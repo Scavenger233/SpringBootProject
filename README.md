@@ -7,4 +7,6 @@ A taste of Spring boot project. To understand the concept of IOC.
 - right click pom.cml -> maven -> reload project
 
 <img width="551" alt="image" src="https://github.com/user-attachments/assets/c8c18bbf-d6f2-4ea1-a34d-567c97af83ec">
+<img width="409" alt="image" src="https://github.com/user-attachments/assets/1f228be7-876b-4f59-8bd5-e95a1cc6d7d7">
+
 
