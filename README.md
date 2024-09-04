@@ -47,6 +47,8 @@ https://app.amigoscode.com/courses/515567/lectures/9607542
 
 
 ## Pull request
+
+We can also implement those steps on postman
 <img width="1246" alt="image" src="https://github.com/user-attachments/assets/58aede5d-fbb5-4981-af99-3997fcabf0b8">
 
 <img width="969" alt="image" src="https://github.com/user-attachments/assets/d5863250-aa9b-495b-be60-3d731d5e1e37">
