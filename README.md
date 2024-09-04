@@ -55,8 +55,9 @@ We can also implement those steps on postman
 
 <img width="969" alt="image" src="https://github.com/user-attachments/assets/d5863250-aa9b-495b-be60-3d731d5e1e37">
 
+## Packaging and running applications
 
-
+Right bar: Maven -> demo -> lifecycle -> clean & install
 
 
 
