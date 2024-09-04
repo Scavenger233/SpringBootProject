@@ -20,7 +20,9 @@ A taste of Spring boot project. To understand the concept of IOC.
 
 <img width="420" alt="image" src="https://github.com/user-attachments/assets/ab9d7766-f358-4d23-bf7e-8b96b8bb149e">
 
+<img width="620" alt="image" src="https://github.com/user-attachments/assets/272f07fd-85c6-4fe0-b369-0ac72f2a9466">
 
+<img width="544" alt="image" src="https://github.com/user-attachments/assets/0cb35f16-8aa6-428a-b018-d5d9af0afbe9">
 
 
 
@@ -39,6 +41,11 @@ https://app.amigoscode.com/courses/515567/lectures/9607542
 
 - to create a database named student
   <img width="906" alt="image" src="https://github.com/user-attachments/assets/30c0d7fa-0c3c-48dd-a03f-e8ac73fc4480">
+
+
+## Pull request
+<img width="1246" alt="image" src="https://github.com/user-attachments/assets/58aede5d-fbb5-4981-af99-3997fcabf0b8">
+
 
 
 
