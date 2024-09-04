@@ -18,6 +18,9 @@ A taste of Spring boot project. To understand the concept of IOC.
 
 <img width="535" alt="image" src="https://github.com/user-attachments/assets/4263fe66-9293-4bc0-8c3d-708745e92bdb">
 
+<img width="420" alt="image" src="https://github.com/user-attachments/assets/ab9d7766-f358-4d23-bf7e-8b96b8bb149e">
+
+
 
 
 
